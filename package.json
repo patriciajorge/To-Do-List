@@ -1,7 +1,7 @@
 {
   "name": "to-do-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este projeto consiste em uma aplicação de lista de tarefas (to-do list) que permite aos usuários registrar, gerenciar e marcar tarefas como concluídas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
