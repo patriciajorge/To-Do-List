@@ -1,9 +1,8 @@
 [build]
   command = "yarn build"
   publish = "public"
-  base = "/"
 
 [[redirects]]
 from = "/*"
-to = "/index.html"
+to = "/index.ejs"
 status = 200
